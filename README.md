@@ -1,5 +1,7 @@
 # PE50
-Files related to video Power Electronics #50: Unstable Behavior of Current-Mode-Controlled DC-DC Converters and its Solution (Part I)
+Files related to video Power Electronics #50: 
+
+Unstable Behavior of Current-Mode-Controlled DC-DC Converters and its Solution (Part I)
 
 Available at: https://youtu.be/Dz46KUt9dEU
 
